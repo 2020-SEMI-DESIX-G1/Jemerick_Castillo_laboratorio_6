@@ -8,7 +8,7 @@
 
 * Demostrar que el estudiante puede consumir endpoints usando Postman.
 
-#  Escribir un API que contemple las peticiones tipo GET, POST, PUT y DELETE usando ExpressJS sobre la entidad "Estudiantes".
+##  Escribir un API que contemple las peticiones tipo GET, POST, PUT y DELETE usando ExpressJS sobre la entidad "Estudiantes".
 
 ### Las rutas deben ser las siguientes:
 
